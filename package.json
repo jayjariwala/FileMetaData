@@ -1,0 +1,23 @@
+{
+  "name": "filemetadata",
+  "version": "1.0.0",
+  "description": "File Size Microservice of FreeCodeCamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayjariwala/FileMetaData.git"
+  },
+  "keywords": [
+    "Fcc",
+    "FileMetaData"
+  ],
+  "author": "Jay Jariwala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayjariwala/FileMetaData/issues"
+  },
+  "homepage": "https://github.com/jayjariwala/FileMetaData#readme"
+}
